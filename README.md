@@ -12,10 +12,14 @@ I now apply my expertise in **Excel, Power BI, SQL, and Python** to build dashbo
 ## 💼 Professional Skills  
 
 ### 🔹 Data Analytics  
-- **Excel** 📊: Advanced in data cleaning, PivotTables, Power Query, VLOOKUP, and complex formulas. Capable of creating dynamic dashboards for reporting and visualization.  
-- **Power BI** 📈: Skilled in building interactive dashboards and compelling visual narratives that communicate insights effectively.  
-- **SQL** 🛠️: Proficient in writing queries to extract, manipulate, and analyze data from relational databases. Experienced in optimizing queries for performance on large datasets.  
-- **Python** 🐍: Experienced in using Python for data analysis, statistical modeling, and automation. Proficient with libraries such as *Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,* and *TensorFlow*.  
+- **Excel** 📊: Advanced in data cleaning, PivotTables, Power Query, VLOOKUP, and complex formulas. Capable of creating dynamic dashboards for reporting and visualization.
+-  
+- **Power BI** 📈: Skilled in building interactive dashboards and compelling visual narratives that communicate insights effectively.
+-  
+- **SQL** 🛠️: Proficient in writing queries to extract, manipulate, and analyze data from relational databases. Experienced in optimizing queries for performance on large datasets.
+-  
+- **Python** 🐍: Experienced in using Python for data analysis, statistical modeling, and automation. Proficient with libraries such as *Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,* and *TensorFlow*.
+-  
 - **Data Visualization** 🌟: Adept at creating clear and engaging visuals using tools like *Power BI, Tableau, Matplotlib,* and *Seaborn* to simplify complex insights.  
 
 ---
