@@ -32,6 +32,49 @@ I now apply my expertise in **Excel, Power BI, SQL, and Python** to build dashbo
 ---
 
 # 📬 Contact Me  
+
+
+---
+
+## 🔍 My Projects
+
+A glimpse of some of the projects I’ve been working on.
+
+### 📌 Project Overview
+
+#### 1. NovaMed Sales & Customer Dashboard  
+This Power BI dashboard analyses NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. The dashboard helps identify the most profitable drugs, top customers, and promising market segments, and provides actionable insights for strategic planning and portfolio optimization.
+
+![NovaMed dashboard image]("C:\Users\Aletor\Desktop\Portfolio for tech\Novamed Image.pdf")  
+*NovaMed Power BI dashboard, snapshot.*  
+
+**Key highlights**
+- Identifies top revenue-contributing products and customer cohorts.  
+- Compares performance by region and demographic segments.  
+- Includes filters for time, product family, and customer type to support decision making.
+
+---
+
+#### 2. Deskify Office Supplies Dashboard  
+The Deskify Power BI project analyses office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes, supporting inventory management and targeted customer outreach.
+
+![Deskify dashboard image]("C:\Users\Aletor\Desktop\Portfolio for tech\Deskify Product Report.pdf")  
+*Deskify Power BI dashboard, snapshot.*  
+
+**Key highlights**
+- Visualizes profit and revenue trends by product and region.  
+- Segments customers by purchase behavior and profitability.  
+- Reveals delivery mode impact on cost and customer satisfaction.
+
+---
+
+## 📬 Contact Me
+
+I am always open to discussing new projects, collaborations, or opportunities in data analytics and data science. Feel free to reach out to me via LinkedIn or email.  
+
+Thank you for visiting my profile! I look forward to connecting with fellow data enthusiasts and professionals. 🌟
+
+---
 I am always open to discussing **new projects, collaborations, or opportunities** in data analytics and data science.  
 Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com)** or **email**.  
 
