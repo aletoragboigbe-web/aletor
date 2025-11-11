@@ -57,7 +57,7 @@ This Power BI dashboard analyses NovaMed’s pharmaceutical sales and customer p
 The Deskify Power BI project analyses office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes, supporting inventory management and targeted customer outreach.
 
 ![Deskify dashboard image](Deskify Product Report.pdf)  
-*Deskify Power BI dashboard, snapshot.*  
+*Deskify Product Report.pdf.*  
 
 **Key highlights**
 - Visualizes profit and revenue trends by product and region.  
