@@ -1,6 +1,6 @@
 ##  👋 Welcome to My GitHub Profile
 
-## 🧩 About Me  
+# 🧩 About Me  
 Hello! I am **Aletor**, a **Math Educator turned Data Analyst** who loves transforming raw data into meaningful insights.  
 My journey from the classroom to analytics has strengthened my skills in **pattern recognition**, **problem-solving**, and **storytelling with data**.  
 
@@ -24,14 +24,14 @@ I now apply my expertise in **Excel, Power BI, SQL, and Python** to build dashbo
 
 ---
 
-## 🎓 Certifications  
+# 🎓 Certifications  
 - 🏅 **Certificate of Excellence** – Data Analytics Internship Programme – *UPTRAIL* (Nov. 2025)  
 - 🎖️ **Certificate of Completion** – Data Analytics Internship Programme – *UPTRAIL* (Nov. 2025)  
 - 🎓 **Master Data Analytics** – *10Alytics* (Sept. 2025)  
 
 ---
 
-## 📬 Contact Me  
+# 📬 Contact Me  
 I am always open to discussing **new projects, collaborations, or opportunities** in data analytics and data science.  
 Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com)** or **email**.  
 
