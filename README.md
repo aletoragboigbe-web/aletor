@@ -1,7 +1,7 @@
 ##  👋 Welcome to My GitHub Profile
 
 ## 🧩 About Me  
-Hello! I am **Aletor Law**, a **Mathematics Educator turned Data Analyst** who loves transforming raw data into meaningful insights.  
+Hello! I am **Aletor**, a **Mathematics Educator turned Data Analyst** who loves transforming raw data into meaningful insights.  
 My journey from the classroom to analytics has strengthened my skills in **pattern recognition**, **problem-solving**, and **storytelling with data**.  
 
 I hold a **Master Data Analyst certification** and completed a **Data Analyst Internship Program**, earning a *Certificate of Excellence* for analytical performance and tool proficiency.  
