@@ -43,7 +43,7 @@ A glimpse of some of the projects I’ve been working on.
 #### 1. NovaMed Sales & Customer Dashboard  
 This Power BI dashboard analyses NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. The dashboard helps identify the most profitable drugs, top customers, and promising market segments, and provides actionable insights for strategic planning and portfolio optimization.
 
-![NovaMed dashboard image](Novamed Image.pdf)  
+![NovaMed dashboard image](Novamed image 2.png)  
 *NovaMed Power BI dashboard, snapshot.*  
 
 **Key highlights**
