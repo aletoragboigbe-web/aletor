@@ -43,7 +43,8 @@ A glimpse of some of the projects I’ve been working on.
 #### 1. NovaMed Sales & Customer Dashboard  
 This Power BI dashboard analyses NovaMed’s pharmaceutical sales and customer performance across multiple segments, including demographics, geography, and revenue contribution. The dashboard helps identify the most profitable drugs, top customers, and promising market segments, and provides actionable insights for strategic planning and portfolio optimization.
 
-![NovaMed dashboard image](Novamed image 2.png)  
+![NovaMed dashboard image](Novamed image 2.png)
+![NovaMed Details](images/novamed-dashboard-details.png)
 *NovaMed Power BI dashboard, snapshot.*  
 
 **Key highlights**
@@ -56,7 +57,8 @@ This Power BI dashboard analyses NovaMed’s pharmaceutical sales and customer p
 #### 2. Deskify Office Supplies Dashboard  
 The Deskify Power BI project analyses office supply sales between 2009 and 2012, covering product, customer, and regional performance. The dashboard provides insights into profit distribution, customer segments, and delivery modes, supporting inventory management and targeted customer outreach.
 
-![Deskify dashboard image](Deskify image1.png)  
+![Deskify dashboard image](Deskify image1.png)
+![Deskify Insights](images/deskify-dashboard-insights.png)
 *Deskify Product Report.pdf.*  
 
 **Key highlights**
