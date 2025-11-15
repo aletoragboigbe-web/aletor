@@ -68,7 +68,7 @@ The Deskify Power BI project analyses office supply sales between 2009 and 2012,
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact Me 
 
 I am always open to discussing new projects, collaborations, or opportunities in data analytics and data science. Feel free to reach out to me via LinkedIn or email.  
 
